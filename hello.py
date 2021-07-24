@@ -1,2 +1,2 @@
-print('hello world new')
+print('hello world')
 print('how are you doing today')

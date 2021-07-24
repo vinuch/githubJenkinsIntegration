@@ -1,2 +1,2 @@
 print('hello world from nigeria')
-print('how are you doing today')
+print('how are you doing')
